@@ -25,7 +25,7 @@
     "errorhandler": "^1.5.1",
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "log4js": "^4.2.0",
     "mongoose": "^5.7.5",
     "mysql": "github:mysqljs/mysql",
